@@ -9,7 +9,7 @@ Develope a software that is able to read and interpret files that contain instru
 language of Euclid Machine. The software is able to determinate if the file kept a lexical and syntactically correct structure and then graphically emulate each of these instructions following the logic of the turttle, which is implemented in multi-paradigm programming language Python.
 
 ## Motivation
-The project began as an essential par of understanding the teory of computation. 
+The project began as an essential part of understanding the teory of computation. 
 
 ## Authors
 * Herrera Garica Eduardo  - <eduherrer8@gmail.com> 
